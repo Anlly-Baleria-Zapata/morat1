@@ -1,18 +1,9 @@
-/* Estilos generales */
 
-/* Estilos para pantallas pequeñas (móviles) */
-@media (max-width: 767px) {
-  /* Agrega aquí tus estilos específicos para móviles */
+@media (max-width: 700px) {
 }
-
-/* Estilos para pantallas medianas (tablets) */
 @media (min-width: 768px) and (max-width: 1023px) {
-  /* Agrega aquí tus estilos específicos para tablets */
 }
-
-/* Estilos para pantallas grandes (computadoras de escritorio) */
 @media (min-width: 1024px) {
-  /* Agrega aquí tus estilos específicos para computadoras de escritorio */
 }
 
 
